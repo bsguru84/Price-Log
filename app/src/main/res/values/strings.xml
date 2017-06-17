@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Price Log</string>
+    <string name="add_item">Add</string>
+    <string name="item_tag">Item</string>
+    <string name="shop_tag">Shop</string>
+    <string name="price_tag">Price</string>
+    <string name="date_tag">Date</string>
+    <string name="add_new_item_title">Add New Entry</string>
+    <string name="update_item_entry_title">Update Entry</string>
+    <string name="no_items_to_display">No Items to display.Add new Items</string>
+    <string name="fields_empty">Fill All Fields</string>
+    <string name="fields_price_zero">Are you sure you didn\'t pay for it?</string>
+    <string name="avg_price">Avg Price</string>
+    <string name="update">Update</string>
+
+    <string name="item_details">%1$s Shopwise Average</string>
+    <string name="item_price_history">Price History in %1$s</string>
+    <string name="item_price_entry">Entry for %1$s</string>
+
+    <string name="acknowledgement">Icons used in the app are designed by Madebyoliver from flaticon</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename">Rename</string>
+
+    <string name="what">What?</string>
+    <string name="where">Where?</string>
+    <string name="cost">Cost</string>
+    <string name="when">When?</string>
+
+    <string name="hint_what">What?(Eg:Tomato)</string>
+    <string name="hint_where">Where?(Eg:Walmart)</string>
+    <string name="hint_cost">Cost(Eg:200)</string>
+    <string name="hint_when">When?</string>
+
+
+    <string-array name="item_list_predefined">
+        <item>Apple</item>
+        <item>Asparagus</item>
+        <item>Aubergine</item>
+        <item>Avocado</item>
+        <item>Baguette</item>
+        <item>Banana</item>
+        <item>Beans</item>
+        <item>Biscuits</item>
+        <item>Bread</item>
+        <item>Broccoli</item>
+        <item>Cabbage</item>
+        <item>Cauliflower</item>
+        <item>Cherries</item>
+        <item>Chillies</item>
+        <item>Coconut</item>
+        <item>Corn</item>
+        <item>Cucumber</item>
+        <item>Garlic</item>
+        <item>Grapes</item>
+        <item>Olives</item>
+        <item>Onion</item>
+        <item>Orange</item>
+        <item>Peach</item>
+        <item>Pear</item>
+        <item>Pepper</item>
+        <item>Pineapple</item>
+        <item>Pomegranate</item>
+        <item>Potato</item>
+        <item>Pumpkin</item>
+        <item>Radish</item>
+        <item>Strawberry</item>
+        <item>Tomato</item>
+        <item>Watermelon</item>
+        <item>Blueberries</item>
+        <item>Carrot</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="default_item_list_drawable_array">
+        <item>@drawable/ic_apple_1</item>
+        <item>@drawable/ic_asparagus</item>
+        <item>@drawable/ic_aubergine</item>
+        <item>@drawable/ic_avocado</item>
+        <item>@drawable/ic_baguette</item>
+        <item>@drawable/ic_banana</item>
+        <item>@drawable/ic_beans</item>
+        <item>@drawable/ic_biscuit</item>
+        <item>@drawable/ic_bread_1</item>
+        <item>@drawable/ic_broccoli</item>
+        <item>@drawable/ic_cabbage</item>
+        <item>@drawable/ic_cauliflower</item>
+        <item>@drawable/ic_cherries</item>
+        <item>@drawable/ic_chili</item>
+        <item>@drawable/ic_coconut</item>
+        <item>@drawable/ic_corn</item>
+        <item>@drawable/ic_cucumber</item>
+        <item>@drawable/ic_garlic</item>
+        <item>@drawable/ic_grapes</item>
+        <item>@drawable/ic_olives</item>
+        <item>@drawable/ic_onion</item>
+        <item>@drawable/ic_orange</item>
+        <item>@drawable/ic_peach</item>
+        <item>@drawable/ic_pear</item>
+        <item>@drawable/ic_pepper</item>
+        <item>@drawable/ic_pineapple</item>
+        <item>@drawable/ic_pomegranate</item>
+        <item>@drawable/ic_potatoes_2</item>
+        <item>@drawable/ic_pumpkin</item>
+        <item>@drawable/ic_radish</item>
+        <item>@drawable/ic_strawberry</item>
+        <item>@drawable/ic_tomato</item>
+        <item>@drawable/ic_watermelon</item>
+        <item>@drawable/ic_blueberries</item>
+        <item>@drawable/ic_carrot</item>
+    </integer-array>
+</resources>
